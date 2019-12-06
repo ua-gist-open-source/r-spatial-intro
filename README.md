@@ -1,17 +1,7 @@
 # Assignment: Introduction to R Spatial
 ## Worth: 40
 
-
-## Assignment
-### Deliverables: 
-Create a github branch named `r-spatial` with the following files, submitting as a Pull Request to `master`:
-- `screencap-lux.png`
-- `screencap-precip.png`
-- `screencap-precip-interp.png`
-- `r-spatial-assignment.R`
-
-### Directions 
-#### Background
+## Background
 Read: https://www.rspatial.org/raster/intr/index.html:
 - Introduction to R 
   - Introduction
@@ -20,6 +10,19 @@ Read: https://www.rspatial.org/raster/intr/index.html:
   - Indexing
 - Spatial data manipulation
 - Spatial data analysis
+
+## Software required
+- [R](https://www.r-project.org/)
+- [RStudio](https://rstudio.com/products/rstudio/download/)
+
+## Deliverables: 
+Create a github branch named `r-spatial` with the following files, submitting as a Pull Request to `master`:
+- `screencap-lux.png`
+- `screencap-precip.png`
+- `screencap-precip-interp.png`
+- `r-spatial-assignment.R`
+
+### Directions 
 
 #### Deliverable:
 Refer to https://www.rspatial.org/raster/spatial/3-vectordata.html#spatialpoints for 1 and 2.
