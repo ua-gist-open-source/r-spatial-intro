@@ -1,0 +1,4 @@
+screencap-lux.png
+screencap-precip.png
+screencap-precip-interp.png
+r-spatial-assignment.R
